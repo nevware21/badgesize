@@ -1,0 +1,37 @@
+{
+    "name": "@nevware21/badgesize",
+    "description": "Badgesize Service",
+    "version": "0.0.1",
+    "homepage": "https://github.com/nevware21/badgesize",
+    "license": "MIT",
+    "author": {
+        "name": "Nevware21 Solutions LLC",
+        "email": "github@nevware21.com"
+    },
+    "keywords": [
+        "ts",
+        "typescript",
+        "js",
+        "javascript",
+        "badgesize.com",
+        "badgesize.io",
+        "img.badgesize.io",
+        "img.badgesize.com"
+    ],
+    "main": "lib/dist/es5/main/ts-utils.js",
+    "sideEffects": false,
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nevware21/badgesize.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nevware21/badgesize/issues"
+    },
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "devDependencies": {
+    }
+}
