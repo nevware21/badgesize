@@ -22,7 +22,7 @@ See [Usage Details page](https://badgesize.com/Usage) to see how to format your 
 
 See [Examples page](https://badgesize.com/Examples) for a collection of simple example badges and how to include them within your repository readme files.
 
-| Badge | URL
+| Badge | Example
 |-------|----------
 | Default | ![Defaults](https://img.badgesize.com/nevware21/badgesize/main/README.md)
 | Custom Label | ![Custom Label](https://img.badgesize.com/nevware21/badgesize/main/README.md?label=Custom%20label)
